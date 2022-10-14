@@ -56,7 +56,7 @@ global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtube.com/channel/UCskYpqt8E65o3SJZpoGS34Q' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '6283869408423' //dana
